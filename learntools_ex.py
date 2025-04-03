@@ -153,7 +153,7 @@ q20_sol = np.array([[ 1.0e+00,  1.0e+01,  1.0e+02,  1.0e+00,  1.0e+01,  1.0e+02,
          0.0e+00,  0.0e+00,  0.0e+00],
        [ 5.0e+00,  5.0e+01,  5.0e+02,  0.0e+00,  0.0e+00,  0.0e+00,
          0.0e+00,  0.0e+00,  0.0e+00]])
-# Expected: a (5, 9) matrix containing the interpolated data, first-order differences, and missing flags.
+# Expected: a (5, 9) matrix containing the v.
 
 
 # --- Exercise Classes ---
